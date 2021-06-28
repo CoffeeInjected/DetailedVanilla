@@ -1,0 +1,10 @@
+{
+    "detailed": {
+        "item_thickness" : {
+			"map":  "minecraft:item/sword_tm"
+		},
+		"item_light" : {
+		    "map":  "minecraft:item/diamond_sword_lm"
+		}
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "detailed": {
+        "item_thickness" : {
+			"map":  "minecraft:item/ender_eye_tm",
+			"from": 1.0,
+			"to": 4.0
+		},
+		"item_light" : {
+			"map":  "minecraft:item/ender_eye_lm"
+		}
+    }
+}

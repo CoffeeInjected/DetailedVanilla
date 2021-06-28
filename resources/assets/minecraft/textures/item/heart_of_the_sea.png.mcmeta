@@ -1,0 +1,9 @@
+{
+    "detailed": {
+        "item_thickness" : {
+			"map":  "minecraft:item/heart_of_the_sea_tm",
+			"from": 1.0,
+			"to": 4.0
+		}
+    }
+}

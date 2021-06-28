@@ -1,0 +1,9 @@
+{
+    "detailed": {
+        "item_thickness" : {
+			"map":  "minecraft:item/ball_tm",
+			"from": 1.0,
+			"to": 4.0
+		}
+    }
+}

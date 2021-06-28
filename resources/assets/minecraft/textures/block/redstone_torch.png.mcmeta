@@ -1,0 +1,12 @@
+{
+    "detailed": {
+        "item_thickness" : {
+			"map":  "minecraft:block/redstone_torch_tm",
+			"from": 0.0,
+			"to": 4.0
+		},
+		"item_light" : {
+		    "map":  "minecraft:block/redstone_torch_lm"
+		}
+    }
+}

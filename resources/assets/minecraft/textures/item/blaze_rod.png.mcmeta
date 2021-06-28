@@ -1,0 +1,10 @@
+{
+    "detailed": {
+        "item_thickness" : {
+			"map":  "minecraft:item/blaze_rod_tm"
+		},
+		"item_light" : {
+			"map":  "minecraft:item/blaze_rod_lm"
+		}
+    }
+}

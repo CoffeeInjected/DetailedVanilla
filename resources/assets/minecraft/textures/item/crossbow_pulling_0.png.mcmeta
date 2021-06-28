@@ -1,0 +1,23 @@
+{
+    "detailed": {
+        "item_layers" : [
+			{
+				"texture":  "minecraft:item/crossbow_launcher_pulling_0",
+				"z_offset": 1.01,
+				"metadata": {
+				    "item_thickness" : {
+			    	    "map":  "minecraft:item/crossbow_launcher_pulling_0_tm"
+					}
+		        }
+			},
+			{
+				"texture":  "minecraft:item/crossbow_base",
+				"metadata": {
+				    "item_thickness" : {
+			    	    "map":  "minecraft:item/crossbow_base_tm"
+					}
+		        }
+			}
+		]
+    }
+}

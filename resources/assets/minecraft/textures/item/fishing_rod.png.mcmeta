@@ -1,0 +1,7 @@
+{
+    "detailed": {
+        "item_thickness" : {
+			"map":  "minecraft:item/fishing_rod_tm"
+		}
+    }
+}

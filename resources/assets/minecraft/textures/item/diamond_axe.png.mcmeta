@@ -1,0 +1,10 @@
+{
+    "detailed": {
+        "item_thickness" : {
+			"map":  "minecraft:item/axe_tm"
+		},
+		"item_light" : {
+		    "map":  "minecraft:item/diamond_axe_lm"
+		}
+    }
+}

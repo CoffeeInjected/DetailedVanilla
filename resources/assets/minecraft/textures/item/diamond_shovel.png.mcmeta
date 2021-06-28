@@ -1,0 +1,10 @@
+{
+    "detailed": {
+        "item_thickness" : {
+			"map":  "minecraft:item/shovel_tm"
+		},
+		"item_light" : {
+		    "map":  "minecraft:item/diamond_shovel_lm"
+		}
+    }
+}

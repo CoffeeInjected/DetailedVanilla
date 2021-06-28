@@ -1,0 +1,12 @@
+{
+    "detailed": {
+        "item_thickness" : {
+			"map":  "minecraft:item/campfire_tm",
+			"from": 1.0,
+			"to": 5.0
+		},
+		"item_light" : {
+			"map":  "minecraft:item/campfire_lm"
+		}
+    }
+}

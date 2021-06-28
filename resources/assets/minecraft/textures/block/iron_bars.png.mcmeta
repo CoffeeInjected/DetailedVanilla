@@ -1,0 +1,7 @@
+{
+    "detailed": {
+        "item_thickness" : {
+			"map":  "minecraft:block/iron_bars_tm"
+		}
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "detailed": {
+		 "item_layers" : [
+			{
+				"texture":  "minecraft:item/totem_of_undying_body",
+				"metadata": {
+				    "item_thickness" : {
+			    	    "map":  "minecraft:item/totem_of_undying_body_tm",
+						"from": 1.0,
+			            "to": 5.0
+					}
+		        }
+			},
+			{
+				"texture":  "minecraft:item/totem_of_undying_face",
+				"z_offset": 2.09,
+				"metadata": {
+				    "item_thickness" : {
+			    	    "map":  "minecraft:item/totem_of_undying_face_tm"
+					},
+					"item_light" : {
+					    "map":  "minecraft:item/totem_of_undying_face_lm"
+					}
+		        }
+			}
+		]
+    }
+}

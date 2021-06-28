@@ -1,0 +1,10 @@
+{
+    "detailed": {
+        "item_thickness" : {
+			"map":  "minecraft:block/torch_tm"
+		},
+		"item_light" : {
+		    "map":  "minecraft:block/torch_lm"
+		}
+    }
+}

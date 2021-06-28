@@ -1,0 +1,10 @@
+{
+    "detailed": {
+        "item_thickness" : {
+			"map":  "minecraft:item/arrow_tm"
+		},
+		"item_light" : {
+			"map":  "minecraft:item/spectral_arrow_lm"
+		}
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "detailed": {
+        "item_thickness" : {
+			"map":  "minecraft:item/turtle_egg_tm",
+			"from": 1.0,
+			"to": 5.0
+		}
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "detailed": {
+        "item_thickness" : {
+			"map":  "minecraft:item/lantern_tm",
+			"from": 1.0,
+			"to": 6.0
+		},
+		"item_light" : {
+			"map":  "minecraft:item/lantern_lm"
+		}
+    }
+}
